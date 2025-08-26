@@ -61,17 +61,6 @@
 </div>
 
 <br/>
-<hr/>
-
-**A little more about me... with npm installed, just type ...**
-
-```
-npx smartertoby
-```
-<div align="center">
-  <img src="assets/npx-smartertoby-console.png" alt="Console with output for 'npx smartertoby'" />
-</div>
-
 
 <hr/>
 
@@ -120,6 +109,7 @@ Mac                      1 hr 11 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 <!--END_SECTION:waka-->
+_Maybe not up to date because I forgot to install the extension_
 
 <br/>
 

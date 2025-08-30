@@ -12,13 +12,13 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/tobiasreuss" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/smartertoby" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="45" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/me/smartertoby" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="45" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
   </a>
 </div>
 
@@ -29,37 +29,37 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="53" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="53" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="53" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="53" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="53" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="53" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="53" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="53" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="53" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="53" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="53" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=openshift" height="53" alt="redhatopenshift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="53" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="53" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="53" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="53" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=openshift" height="60" alt="redhatopenshift logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
 </div>
 
 ###

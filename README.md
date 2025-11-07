@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/reussio/reussio/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/reussio/reussio/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
